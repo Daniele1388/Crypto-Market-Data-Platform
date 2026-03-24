@@ -1,6 +1,6 @@
 # Crypto BI Project
 
-![Crypto Market](docs/crypto_image.png) 
+![Crypto Market](docs/Crypto_image.png) 
 
 ## Project Overview
 
