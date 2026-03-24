@@ -165,13 +165,14 @@ The project uses the following technologies:
 
 To run this project:
 
-1. Load CSV files into the data folder.  
-2. Run the Python script to load data into SQL Server Bronze tables.  
-3. Run SQL scripts to create Silver and Gold layers.  
-4. Create fact and dimension tables.  
-5. Open the Power BI file.  
-6. Refresh the data model.  
-7. Explore the dashboard.  
+1. Load CSV files into the data folder.
+2. Run SQL scripts to create Bronze layer.  
+3. Run the Python script to load data into SQL Server Bronze tables.  
+4. Run SQL scripts to create Silver and Gold layers.  
+5. Create fact and dimension tables.  
+6. Open the Power BI file.  
+7. Refresh the data model.  
+8. Explore the dashboard.  
 
 ---
 
