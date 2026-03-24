@@ -298,8 +298,6 @@ These metrics allow analysis of market size, performance and market dominance.
 
 ## Dashboard
 
-https://github.com/user-attachments/assets/2abbe58c-5f7b-4b4d-8472-ba0872ce36aa
-
 The Power BI dashboard is divided into four pages.
 
 **Coin Directory**  
@@ -315,6 +313,8 @@ Detailed analysis of a single cryptocurrency with price trend, market cap, volum
 Comparison between crypto categories with market cap, volume, market share and scatter plot analysis.
 
 The dashboard allows interactive analysis using slicers and filters.
+
+https://github.com/user-attachments/assets/2abbe58c-5f7b-4b4d-8472-ba0872ce36aa
 
 ---
 ## Repository Structure
