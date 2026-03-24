@@ -116,6 +116,37 @@ Comparison between crypto categories with market cap, volume, market share and s
 The dashboard allows interactive analysis using slicers and filters.
 
 ---
+## Repository Structure
+
+```
+crypto-data-platform/
+│
+├── README.md
+│
+├── data/
+│   └── raw_csv_sample/
+│
+├── python/
+│   └── data_ingestion.py
+│
+├── sql/
+│   ├── bronze/
+│   ├── silver/
+│   ├── gold/
+│   ├── star_schema/
+│   └── views/
+│
+├── powerbi/
+│   └── crypto_dashboard.pbix
+│
+├── architecture/
+│   └── architecture_diagram.png
+│
+└── docs/
+    └── project_description.md
+```
+
+---
 
 ## Technologies Used
 
