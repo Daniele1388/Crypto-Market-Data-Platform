@@ -1,5 +1,7 @@
 # Crypto BI Project
 
+![Crypto Market](docs/crypto_image.png) 
+
 ## Project Overview
 
 This project is an end to end data analytics project about the cryptocurrency market.  
