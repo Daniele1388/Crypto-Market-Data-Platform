@@ -298,6 +298,8 @@ These metrics allow analysis of market size, performance and market dominance.
 
 ## Dashboard
 
+https://github.com/user-attachments/assets/2abbe58c-5f7b-4b4d-8472-ba0872ce36aa
+
 The Power BI dashboard is divided into four pages.
 
 **Coin Directory**  
