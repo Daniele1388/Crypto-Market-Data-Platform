@@ -246,6 +246,7 @@ GO;
 
 This pipeline simulates a real data warehouse workflow.
 
+![Data Architecture](architecture/architecture_diagram.gif)  
 ---
 
 ## Data Model
