@@ -127,14 +127,12 @@ crypto-data-platform/
 │   └── raw_csv_sample/
 │
 ├── python/
-│   └── data_ingestion.py
+│   └──data_ingestion.py
 │
 ├── sql/
 │   ├── bronze/
 │   ├── silver/
-│   ├── gold/
-│   ├── star_schema/
-│   └── views/
+│   └── gold/
 │
 ├── powerbi/
 │   └── crypto_dashboard.pbix
