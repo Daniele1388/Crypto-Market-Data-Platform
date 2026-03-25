@@ -364,6 +364,26 @@ The project uses the following technologies:
 
 ---
 
+## Prerequisites
+
+Before running the project, make sure the following software is installed:
+
+- Python 3.10 or higher
+- Microsoft SQL Server (SQL Server Express is sufficient)
+- ODBC Driver 17 for SQL Server
+- Power BI Desktop
+- Python libraries:
+  - pandas
+  - pyodbc
+
+Install Python dependencies with:
+
+```bash
+pip install pandas pyodbc
+```
+
+---
+
 ## How to Run the Project
 
 To run this project:
