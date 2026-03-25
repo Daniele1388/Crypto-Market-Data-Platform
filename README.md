@@ -181,7 +181,7 @@ BEGIN
 	TRUNCATE TABLE slv.crypto_prices_clean;
 	INSERT INTO slv.crypto_prices_clean
 	(
-		date,
+		crypto_date,
 		price,
 		total_volume,
 		market_cap,
