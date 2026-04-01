@@ -3,8 +3,8 @@ import pandas as pd
 import pyodbc as odbc
 
 #Connection to SQL Server
-DRIVER = 'ODBC Driver 17 for SQL Server'
-SERVER = 'DESKTOP-J3FRNGE\\SQLEXPRESS'
+DRIVER = 'INSERT DRIVER'
+SERVER = 'INSERT SERVER'
 DATABASE = 'Crypto_DB'
 
 target_table = 'brz.crypto_prices_raw'
