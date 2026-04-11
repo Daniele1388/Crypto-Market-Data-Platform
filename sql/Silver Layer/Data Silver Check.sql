@@ -16,7 +16,7 @@ ORDER BY coin_name
 
 -- Check Null
 SELECT
-	SUM(CASE WHEN date IS NULL THEN 1 ELSE 0 END) AS null_date,
+	SUM(CASE WHEN crypto_date IS NULL THEN 1 ELSE 0 END) AS null_date,
 	SUM(CASE WHEN price IS NULL THEN 1 ELSE 0 END) AS null_price,
 	SUM(CASE WHEN total_volume IS NULL THEN 1 ELSE 0 END) AS null_tot_volume,
 	SUM(CASE WHEN market_cap IS NULL THEN 1 ELSE 0 END) AS null_market_cap,
